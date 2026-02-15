@@ -1,0 +1,34 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Models
+models/*.h5
+models/*.keras
+
+# OS files
+.DS_Store
+# virtual environments
+venv/
+env/
+
+# python cache
+__pycache__/
+*.pyc
+
+# mac
+.DS_Store
+
+# datasets & models
+models/
+data/
+*.h5
+*.keras
+*.tflite
+
+# logs
+*.log
+
